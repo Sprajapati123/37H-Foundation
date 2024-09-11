@@ -26,6 +26,6 @@ if(a>b && a>c)
      }
    }
 
-   printf("The highest number is %d",highest);
+     printf("The highest number is %d",highest);
 
 }
